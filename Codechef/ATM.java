@@ -10,5 +10,8 @@ class ATM {
         }else{
             System.out.printf("%.2f \n",Y);
         }
+        for (int i = 0; i < max; i++) {
+            
+        }
     }
 }
